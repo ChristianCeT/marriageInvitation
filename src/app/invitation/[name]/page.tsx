@@ -15,9 +15,12 @@ import { Carousel } from "react-responsive-carousel";
 import Image from "next/image";
 
 async function getDataGuest(name: string) {
-  const res = await fetch(`http://localhost:3000/api/guests/${name}`, {
-    cache: "no-cache",
-  });
+  const res = await fetch(
+    `https://marriage-invitation-alpha.vercel.app/api/guests/${name}`,
+    {
+      cache: "no-cache",
+    }
+  );
   const { guest } = await res.json();
 
   return guest[0];
