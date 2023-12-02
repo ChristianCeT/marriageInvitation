@@ -20,7 +20,7 @@ const config: Config = {
       },
       fontFamily: {
         mainText: ["Ephesis", "Great Vibes", "cursive"],
-        secondText: ["Great Vibes", "cursive"],
+        secondText: ["Great Vibes"],
         thirdText: [
           "Cookie",
           "cursive",
@@ -33,6 +33,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("tailwindcss-animated")],
 };
 export default config;
