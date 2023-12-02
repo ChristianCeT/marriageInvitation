@@ -90,7 +90,7 @@ const CarouselT = ({ guest }: any) => {
             <button
               type="button"
               onClick={onClickHandler}
-              className=" absolute top-1/2 right-0 z-10 w-12 h-12 mr-1 animate-fade-left animate-once animate-duration-[2000ms] animate-ease-in-out"
+              className="absolute top-1/2 right-0 z-10 w-12 h-12 mr-1 animate-fade-left animate-once animate-duration-[2000ms] animate-ease-in-out"
             >
               <Image
                 onClick={onClickHandler}
@@ -177,19 +177,19 @@ const CarouselT = ({ guest }: any) => {
             </div>
 
             <div className="absolute bottom-10 left-4 text-start">
-              <div className="flex flex-col flex-sta">
-                <p className="font-mainText text-xl text-primaryColorTitle font-semibold animate-fade-left animate-once animate-duration-[4000ms] animate-ease-out">
+              <div className="flex flex-col flex-start pb-14">
+                <p className="font-mainText text-2xl text-primaryColorTitle font-semibold animate-fade-left animate-once animate-duration-[4000ms] animate-ease-out">
                   Para:
                 </p>
                 <p
-                  className="capitalize font-mainText font-semibold text-xl bg-gradient-to-r
+                  className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
               from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                 >
                   {guest.name}
                 </p>
                 {guest.family ? (
                   <p
-                    className="capitalize font-mainText font-semibold text-xl bg-gradient-to-r
+                    className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
                     from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                   >
                     & {guest.family}
@@ -203,7 +203,7 @@ const CarouselT = ({ guest }: any) => {
         </div>
       </div>
 
-      <div>
+      <div className="">
         <div className="absolute h-screen w-screen -z-10">
           <div className="animate-pulse animate-infinite animate-duration-[3000ms] animate-ease-out">
             <Image
@@ -248,16 +248,20 @@ const CarouselT = ({ guest }: any) => {
           </div>
         </div>
 
-        <div className="mt-14 ml-16 mr-8 flex items-center flex-col gap-5 h-[80vh] justify-center">
+        <div className="py-[28%] pl-12 pr-5 flex items-center flex-col gap-5 h-full">
           {isAnimation ? (
-            <p className="font-bold font-mainText text-xl animate-fade-down animate-duration-[3000ms] animate-ease-in-out animate-fill-both">
+            <p
+              className="font-bold 
+            font-mainText text-[1.35em] animate-fade-down 
+            animate-duration-[3000ms] animate-ease-in-out animate-fill-both leading-8"
+            >
               {guest.message}
             </p>
           ) : (
             <div></div>
           )}
 
-          <div className="flex w-full items-center justify-around">
+          <div className="flex w-full items-center justify-between px-5">
             {isAnimation ? (
               <div className="flex flex-col w-[40vw] animate-fade-right animate-once animate-duration-[4000ms] animate-ease-in-out animate-fill-both">
                 <p className="text-start text-primaryColorTitle font-bold font-mono">
@@ -280,7 +284,7 @@ const CarouselT = ({ guest }: any) => {
                 8000,
               ]}
               wrapper="div"
-              className="text-transparent text-center font-bold font-mono text-base 
+              className="text-transparent text-center font-bold font-mainText text-[1.41em] 
               animate-fade-up animate-once animate-duration-[5000ms] animate-ease-in-out 
               animate-fill-both bg-gradient-to-r from-black to-primaryColorTitle bg-clip-text text-ellipsis
               "
