@@ -113,7 +113,6 @@ export const InvitatedPeople: People[] = [
   {
     name: "irma",
     guest: "Irma Tanta",
-    family: "Tanta",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
@@ -121,7 +120,6 @@ export const InvitatedPeople: People[] = [
   {
     name: "virginia",
     guest: "Virginia Tanta",
-    family: "Tanta",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
@@ -145,7 +143,6 @@ export const InvitatedPeople: People[] = [
   {
     name: "gilmer",
     guest: "Gilmer Tanta",
-    family: "Tanta",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
@@ -154,6 +151,20 @@ export const InvitatedPeople: People[] = [
     name: "sonia",
     guest: "Sonia Cervantes",
     family: "Cervantes",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "nicolas",
+    guest: "Nicolas Pintado",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "hilda",
+    guest: "Hilda Tanta",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
