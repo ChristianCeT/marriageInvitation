@@ -7,8 +7,8 @@ export interface People {
 
 export const InvitatedPeople: People[] = [
   {
-    name: "bety1",
-    guest: "Mirtha Cervantes",
+    name: "geremias",
+    guest: "Geremias Cervantes",
     family: "Cervantes",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
@@ -18,7 +18,7 @@ export const InvitatedPeople: People[] = [
     name: "bety",
     guest: "mirtha Chavez",
     message:
-      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!!",
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
 
   {
