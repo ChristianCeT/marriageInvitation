@@ -141,4 +141,20 @@ export const InvitatedPeople: People[] = [
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
+
+  {
+    name: "gilmer",
+    guest: "Gilmer Tanta",
+    family: "Tanta",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "sonia",
+    guest: "Sonia Cervantes",
+    family: "Cervantes",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
 ];
