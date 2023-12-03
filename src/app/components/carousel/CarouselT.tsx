@@ -178,18 +178,18 @@ const CarouselT = ({ guest }: any) => {
 
             <div className="absolute bottom-10 left-4 text-start">
               <div className="flex flex-col flex-start pb-14">
-                <p className="font-mainText text-2xl text-primaryColorTitle font-semibold animate-fade-left animate-once animate-duration-[4000ms] animate-ease-out">
+                <p className="font-mainText text-xl text-primaryColorTitle font-semibold animate-fade-left animate-once animate-duration-[4000ms] animate-ease-out">
                   Para:
                 </p>
                 <p
-                  className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
+                  className="capitalize font-mainText font-semibold text-xl bg-gradient-to-r
               from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                 >
                   {guest.guest}
                 </p>
                 {guest.family ? (
                   <p
-                    className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
+                    className="capitalize font-mainText font-semibold text-xl bg-gradient-to-r
                     from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                   >
                     & Familia
@@ -248,11 +248,11 @@ const CarouselT = ({ guest }: any) => {
           </div>
         </div>
 
-        <div className="py-[28%] pl-12 pr-5 flex items-center flex-col gap-5 h-full">
+        <div className="pt-[57px] pb-[70px] pl-12 pr-3 flex items-center flex-col gap-5 h-full">
           {isAnimation ? (
             <p
               className="font-bold 
-            font-mainText text-[1.35em] animate-fade-down 
+            font-mainText text-[1.26em] animate-fade-down 
             animate-duration-[3000ms] animate-ease-in-out animate-fill-both leading-8"
             >
               {guest.message}

@@ -9,7 +9,6 @@ export const InvitatedPeople: People[] = [
   {
     name: "geremias",
     guest: "Geremias Cervantes",
-    family: "Cervantes",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
@@ -49,6 +48,79 @@ export const InvitatedPeople: People[] = [
   {
     name: "jose1",
     guest: "Jose Cervantes",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "omar",
+    guest: "Omar De La Cruz",
+    family: "De La Cruz",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  /* fernando */
+
+  {
+    name: "juancarlos",
+    guest: "Juan De La Cruz",
+    family: "De La Cruz",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "juan",
+    guest: "Juan Cervantes",
+    family: "Cervantes",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "esther",
+    guest: "Esther Asto",
+    family: "Asto",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "yeremy",
+    guest: "Yeremy Cervantes",
+    family: "Cervantes",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "porfirio",
+    guest: "Porfirio Torres",
+    family: "Torres",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+  {
+    name: "sara",
+    guest: "Sara Palomino",
+    family: "Palomino",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "irma",
+    guest: "Irma Tanta",
+    family: "Tanta",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "virginia",
+    guest: "Virginia Tanta",
+    family: "Tanta",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
