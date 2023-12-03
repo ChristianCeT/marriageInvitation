@@ -10,8 +10,8 @@ import CarouselT from "@/app/components/carousel/CarouselT";
 
 async function getDataGuest(name: string) {
   const res = await fetch(
-    `https://marriage-invitation-alpha.vercel.app/api/guests/${name}`,
-    /*   `http://localhost:3000/api/guests/${name}`, */
+    /*  `https://marriage-invitation-alpha.vercel.app/api/guests/${name}`, */
+    `http://localhost:3000/api/guests/${name}`,
     {
       cache: "no-cache",
     }

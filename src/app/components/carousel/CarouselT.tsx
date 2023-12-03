@@ -185,14 +185,14 @@ const CarouselT = ({ guest }: any) => {
                   className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
               from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                 >
-                  {guest.name}
+                  {guest.guest}
                 </p>
                 {guest.family ? (
                   <p
                     className="capitalize font-mainText font-semibold text-2xl bg-gradient-to-r
                     from-primaryColorLetter to-primaryColorTitle2 text-transparent bg-clip-text animate-fade-right animate-once animate-duration-[4000ms] animate-ease-out"
                   >
-                    & {guest.family}
+                    & Familia
                   </p>
                 ) : (
                   <div></div>
