@@ -191,7 +191,7 @@ export const InvitatedPeople: People[] = [
   },
 
   {
-    name: "mercedes",
+    name: "alcides",
     guest: "Alcides, Mercedes",
     family: "Quispe",
     message:
@@ -209,6 +209,13 @@ export const InvitatedPeople: People[] = [
   {
     name: "liliana",
     guest: "Liliana Ponze",
+    message:
+      "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
+  },
+
+  {
+    name: "victor",
+    guest: "Victor Anicama",
     message:
       "¡El amor está en el aire y nos complace compartir este momento especial contigo! Te invitamos cordialmente a celebrar el día más emocionante de nuestras vidas. Únete a nosotros mientras intercambiamos nuestros votos y sellamos nuestro amor en el sagrado vínculo del matrimonio. Será un día lleno de alegría, risas y momentos inolvidables. ¡Esperamos contar con tu presencia para hacer de este día algo aún más especial!",
   },
