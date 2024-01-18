@@ -4,8 +4,8 @@ import Image from "next/image";
 const Map = ({ isAnimation }: any) => {
   const handleButtonClick = () => {
     if (navigator.geolocation) {
-      const latitude = -12.171956;
-      const longitude = -76.922495;
+      const latitude = -12.153633939183926;
+      const longitude = -76.97476400552624;
       const isMobileAndroid = /Android/i.test(navigator.userAgent);
       const isMobileIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
       if (isMobileAndroid) {
